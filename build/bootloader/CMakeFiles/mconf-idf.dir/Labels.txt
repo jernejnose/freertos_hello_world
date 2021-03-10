@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/jernejn/build/freertos_hello_world/build/bootloader/CMakeFiles/mconf-idf
+/home/jernejn/build/freertos_hello_world/build/bootloader/CMakeFiles/mconf-idf.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/CMakeFiles/mconf-idf-complete.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/jernejn/build/freertos_hello_world/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
