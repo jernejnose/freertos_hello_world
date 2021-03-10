@@ -19,3 +19,4 @@
 * flash the firmware to device `idf.py -p /dev/ttyUSB0 flash` replace the /dev/ttyUSB0` with actual port 
 * monitor device output `idf.py -p /dev/ttyUSB0 monitor`
 * you can combine commands, to do everything in one step `idf.py -p \dev\zzyUSB0 build flash monitor`
+* you can quit the monitor with `ctrl + ]`

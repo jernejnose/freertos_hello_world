@@ -33,7 +33,7 @@ void vApplicationDaemonTaskStartupHook( void )
 void hello_world_task(void *arg) {
     uint32_t task_id = (uint32_t)arg;
     while (1) {
-    ESP_LOGI(TAG, "Hello world task is running...");
+    ESP_LOGI(TAG, "Hello world task %i is running...", task_id);
     vTaskDelay(1000 / portTICK_PERIOD_MS);
     }
     vTaskDelete(NULL);
