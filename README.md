@@ -2,7 +2,7 @@
 ## Prerequisites
 * install ESP-IDF prerequisites: `sudo apt-get install git wget flex bison gperf python3 python3-pip python3-setuptools cmake ninja-build ccache libffi-dev libssl-dev dfu-util`
 * more info on ESP-IDF setup: https://docs.espressif.com/projects/esp-idf/en/release-v4.2/esp32/get-started/index.html
-* python3 needs to be in `\usr\bin\python`, if needed create symlink `sudo ln -s /usr/bin/python3 /usr/bin/python`
+* python3 needs to be in `/usr/bin/python`, if needed create symlink `sudo ln -s /usr/bin/python3 /usr/bin/python`
 
 
 ## How to build
